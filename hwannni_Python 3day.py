@@ -107,3 +107,4 @@ for i in range(2,10):
     print('') 
 
 # 주석처리 방법은 'Ctrl /' 다
+##
